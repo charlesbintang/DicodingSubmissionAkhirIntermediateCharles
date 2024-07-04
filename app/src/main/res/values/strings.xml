@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">My Precy</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to upload your happiness? Head to My Precy!</string>
+    <string name="title_welcome_page">Welcome to My Precy!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Let\'s share your happiness!</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">All happiness starts from here!</string>
+    <string name="greeting">Hi %1$s</string>
+    <string name="logout">Logout</string>
+    <string name="login_image">Login Image</string>
+    <string name="sign_up_image">Sign Up Image</string>
+    <string name="welcome_image">Welcome Image</string>
+    <string name="invalid_email">Email Invalid</string>
+    <string name="name_validation">Name must be filled in</string>
+    <string name="email_validation">Email must be filled in</string>
+    <string name="password_length_validation">Password must not be less than 8 characters</string>
+    <string name="password_validation">Password must be filled in</string>
+    <string name="account_created_message">Account with %1$s is ready to go. Lets login and start sharing your happiness!.</string>
+    <string name="failed">Failed, please try again</string>
+    <string name="is_logged_in">You\'ve logged in</string>
+    <string name="next">Next</string>
+    <string name="story_image">User image story</string>
+    <string name="change_language">Change Language</string>
+    <string name="add_story">Share your happiness here</string>
+    <string name="logout_message">Logout from your account?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="no_story">Sorry, no story at the moment. Please try again later</string>
+    <string name="detail_story_image">Detail Story Image</string>
+    <string name="detail_story_title">Detail Story</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="story_description">Tell us about your happiness</string>
+    <string name="upload_story">Upload your story</string>
+    <string name="no_media_selected">No media selected</string>
+    <string name="at_time">at</string>
+    <string name="awesome">Awesome!</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="map">Map</string>
+</resources>

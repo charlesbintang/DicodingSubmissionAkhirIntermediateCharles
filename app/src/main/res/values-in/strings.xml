@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau unggah kebahagiaanmu? Di My Precy aja!</string>
+    <string name="title_welcome_page">Selamat datang di My Precy!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Mari bagikan kebahagiaanmu!</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Semua kebahagiaan dimulai dari sini!</string>
+    <string name="greeting">Halo %1$s</string>
+    <string name="logout">Keluar</string>
+    <string name="login_image">Gambar Halaman Masuk</string>
+    <string name="sign_up_image">Gambar Halaman Daftar</string>
+    <string name="welcome_image">Gambar Halaman Selamat Datang</string>
+    <string name="invalid_email">Email Tidak Valid</string>
+    <string name="email_validation">Email harus diisi</string>
+    <string name="password_length_validation">Kata sandi tidak boleh kurang dari 8 karakter</string>
+    <string name="password_validation">Password harus diisi</string>
+    <string name="is_logged_in">Anda telah masuk</string>
+    <string name="next">Selanjutnya</string>
+    <string name="name_validation">Nama harus diisi</string>
+    <string name="account_created_message">Akun dengan %1$s siap digunakan. Ayo login dan mulai berbagi kebahagiaanmu!.</string>
+    <string name="failed">Gagal, silakan coba lagi</string>
+    <string name="story_image">Cerita gambar pengguna</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="add_story">Bagikan kebahagiaanmu di sini</string>
+    <string name="logout_message">Keluar dari akun Anda?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="no_story">Maaf, tidak ada cerita saat ini. Silakan coba lagi nanti</string>
+    <string name="detail_story_image">Gambar Cerita Detail</string>
+    <string name="detail_story_title">Cerita Detail</string>
+    <string name="image_preview">Preview Gambar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="story_description">Ceritakan kepada kami tentang kebahagiaan Anda</string>
+    <string name="upload_story">Unggah cerita Anda</string>
+    <string name="no_media_selected">Tidak ada media yang dipilih</string>
+    <string name="at_time">pada</string>
+    <string name="awesome">Luar Biasa!</string>
+    <string name="map">Peta</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signup">S\'inscrire</string>
+    <string name="login">Connexion</string>
+    <string name="message_welcome_page">Vous voulez télécharger votre bonheur ? Rendez-vous sur My Precy !</string>
+    <string name="title_welcome_page">Bienvenue à My Precy !</string>
+    <string name="title_signup_page">Complétez vos données ci-dessous</string>
+    <string name="message_login_page">Saisissez d\'abord vos données</string>
+    <string name="title_login_page">Partageons votre bonheur !</string>
+    <string name="name">Nom</string>
+    <string name="message_main_page">Tout le bonheur commence ici !</string>
+    <string name="greeting">Bonjour %1$s</string>
+    <string name="logout">Déconnexion</string>
+    <string name="login_image">Image de connexion</string>
+    <string name="sign_up_image">S\'inscrire à l\'image</string>
+    <string name="welcome_image">Image de bienvenue</string>
+    <string name="invalid_email">Email invalide</string>
+    <string name="email_validation">L\'email doit être rempli</string>
+    <string name="password_length_validation">Le mot de passe ne doit pas comporter moins de 8 caractères</string>
+    <string name="password_validation">Le mot de passe doit être rempli</string>
+    <string name="is_logged_in">Vous avez ouvert une session</string>
+    <string name="next">Suivant</string>
+    <string name="name_validation">Le nom doit être rempli</string>
+    <string name="account_created_message">Le compte de %1$s est prêt à être utilisé. Connectez-vous et commencez à partager votre bonheur !</string>
+    <string name="failed">Échec, veuillez réessayer</string>
+    <string name="story_image">Histoire de l\'image de l\'utilisateur</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="add_story">Partagez votre bonheur ici</string>
+    <string name="logout_message">Déconnexion de votre compte ?</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="no_story">Désolé, il n\'y a pas d\'article pour le moment. Veuillez réessayer plus tard</string>
+    <string name="detail_story_image">Image de l\'histoire détaillée</string>
+    <string name="detail_story_title">Détail de l\'histoire</string>
+    <string name="image_preview">Aperçu de l\'Image</string>
+    <string name="camera">Appareil photo</string>
+    <string name="gallery">Galerie</string>
+    <string name="story_description">Parlez-nous de votre bonheur</string>
+    <string name="upload_story">Téléchargez votre histoire</string>
+    <string name="no_media_selected">Aucun support n\'est sélectionné</string>
+    <string name="at_time">à</string>
+    <string name="awesome">Génial</string>
+    <string name="map">Carte</string>
+</resources>
